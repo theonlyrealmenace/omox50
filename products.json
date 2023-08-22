@@ -1,0 +1,73 @@
+[
+
+    {
+    "productName" :"eaude-parfum 100ml",
+    "productPrice":"2500",
+    "productImage":"1.jpg",
+    "id":1
+
+
+    },
+    {
+        "productName" :"dey play 100ml",
+        "productPrice":"15500",
+        "productImage":"2.jpg",
+        "id":2
+    
+    },
+
+    {
+        "productName" :"playing 100ml",
+        "productPrice":"25000",
+        "productImage":"3.jpg",
+        "id":3
+    
+    },
+
+    {
+        "productName" :"smelly 100ml",
+        "productPrice":"2500",
+        "productImage":"4.jpg",
+        "id":4
+    
+    },
+
+
+
+
+
+
+    {
+        "productName" :"madam 100ml",
+        "productPrice":"21700",
+        "productImage":"5.jpg",
+        "id":5
+    
+    },
+
+
+
+    {
+        "productName" :"mamama 100ml",
+        "productPrice":"2500",
+        "productImage":"6.jpg",
+        "id":6
+    
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

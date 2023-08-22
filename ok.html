@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .icon {
+          position: relative;
+          display: inline-block;
+          width: 50px;
+          height: 50px;
+          background-color: blueviolet;
+        }
+      
+        .icon:after {
+          content: "";
+          position: absolute;
+          top: -5px;
+          left: -5px;
+          right: -5px;
+          bottom: -5px;
+          border-radius: 50%;
+          border: 2px solid rgba(0,0,0,0.2);
+        }
+      </style>
+      
+      <div class="icon">
+        <img src="images/Vector.svg">
+      </div>
+
+      
+        <script>
+  const icon = document.querySelector('.icon');
+
+  icon.addEventListener('click', function() {
+    icon.classList.toggle('active');
+  });
+</script>
+
+      </script>
+      
+</body>
+</html>
